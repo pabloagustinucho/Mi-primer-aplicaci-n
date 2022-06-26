@@ -89,6 +89,6 @@ boton_borrado = tkinter.Button(ventana,text="Borrar",command=borrar)
 boton_borrado.pack()  
 
 
-    
+ 
 
 ventana.mainloop()
